@@ -284,6 +284,8 @@ outerLoopLabel:
 	fmt.Print("type :", reflect.TypeOf(slice), "\n")
 	fmt.Println(slice)
 
+	fmt.Println("---------- slice 2 ----------- \n")
+
 }
 
 func f(cnt *int) {
